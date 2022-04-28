@@ -11,14 +11,14 @@
 
 # Ценности
 
-1. Финансовая прозрачность — все приходы и расходы нефонда можно посмотреть на странице [“Бюджет”](https://github.com/RndTechCommunity/NotFound/Finances/README.md).
-2. Открытые правила — все условия для мероприятий сделаны для поддержки безопасной атмосферы и развития коммуникаций между участниками, поэтому [правила](https://github.com/RndTechCommunity/NotFound/Host/README.md#Каким-мероприятиям-мы-помогаем) прозрачны и доступны всем.
-3. Свобода участия — заявки на участие открыты для всех ит-компаний и мероприятий, которые придерживаются [правил проведения](https://github.com/RndTechCommunity/NotFound/Host/README.md#Каким-мероприятиям-мы-помогаем) и [поведения на мероприятиях](https://github.com/RndTechCommunity/RndTech/blob/master/code-of-conduct/README.md).
+1. Финансовая прозрачность — все приходы и расходы нефонда можно посмотреть на странице [“Бюджет”](https://github.com/RndTechCommunity/NotFound/blob/main/Finances/README.md).
+2. Открытые правила — все условия для мероприятий сделаны для поддержки безопасной атмосферы и развития коммуникаций между участниками, поэтому [правила](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md#Каким-мероприятиям-мы-помогаем) прозрачны и доступны всем.
+3. Свобода участия — заявки на участие открыты для всех ит-компаний и мероприятий, которые придерживаются [правил проведения](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md#Каким-мероприятиям-мы-помогаем) и [поведения на мероприятиях](https://github.com/RndTechCommunity/RndTech/blob/master/code-of-conduct/README.md).
 4. Концентрация на развитии — фонду важно делать что-то новое или улучшать существующее, поэтому при выборе мероприятий и рассмотрении заявок приоритет будет о отдаваться новым организаторам и улучшению качества.
 5. Поддержка независимых организаторов — в первую очередь фонд создан для поддержки мероприятий, не аффилированных с компаниями и проводимых для развития независимых сообществ.
 
-- [Организаторам](https://github.com/RndTechCommunity/NotFound/Host/README.md)
-  - [Каким мероприятиям мы помогаем](https://github.com/RndTechCommunity/NotFound/Host/README.md#Каким-мероприятиям-мы-помогаем)
-  - [Как помогаем](https://github.com/RndTechCommunity/NotFound/Host/README.md#Как-помогаем)
-  - [Чем можно помочь фонду](https://github.com/RndTechCommunity/NotFound/Host/README.md#Чем-можно-помочь-фонду)
-- [Бюджет](https://github.com/RndTechCommunity/NotFound/Finances/README.md)
+- [Организаторам](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md)
+  - [Каким мероприятиям мы помогаем](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md#Каким-мероприятиям-мы-помогаем)
+  - [Как помогаем](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md#Как-помогаем)
+  - [Чем можно помочь фонду](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md#Чем-можно-помочь-фонду)
+- [Бюджет](https://github.com/RndTechCommunity/NotFound/blob/main/Finances/README.md)
