@@ -22,3 +22,4 @@
   - [Как помогаем](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md#Как-помогаем)
   - [Чем можно помочь фонду](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md#Чем-можно-помочь-фонду)
 - [Бюджет](https://github.com/RndTechCommunity/NotFound/blob/main/Finances/README.md)
+  - [Отчёты](https://github.com/RndTechCommunity/NotFound/blob/main/Finances/Reports/README.md)
