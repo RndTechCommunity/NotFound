@@ -27,3 +27,4 @@
   - [Чек-лист тайминга подготовки сферического митапа в вакууме](https://github.com/RndTechCommunity/NotFound/blob/main/Articles/MeetupChecklist/README.md)
   - [Подготовка спикеров](https://github.com/RndTechCommunity/RndTech/blob/master/community/speakers.md)
   - [Площадки и пространства для проведения мероприятий](https://github.com/RndTechCommunity/RndTech/blob/master/community/places.md)
+- [Список мероприятий](https://github.com/RndTechCommunity/NotFound/blob/main/Events/README.md)
