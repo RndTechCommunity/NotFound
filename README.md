@@ -23,3 +23,7 @@
   - [Чем можно помочь фонду](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md#Чем-можно-помочь-фонду)
 - [Бюджет](https://github.com/RndTechCommunity/NotFound/blob/main/Finances/README.md)
   - [Отчёты](https://github.com/RndTechCommunity/NotFound/blob/main/Finances/Reports/README.md)
+- [Полезные материалы](https://github.com/RndTechCommunity/NotFound/blob/main/Articles/README.md)
+  - [Чек-лист тайминга подготовки сферического митапа в вакууме](https://github.com/RndTechCommunity/NotFound/blob/main/Articles/MeetupChecklist/README.md)
+  - [Подготовка спикеров](https://github.com/RndTechCommunity/RndTech/blob/master/community/speakers.md)
+  - [Площадки и пространства для проведения мероприятий](https://github.com/RndTechCommunity/RndTech/blob/master/community/places.md)
