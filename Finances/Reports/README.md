@@ -6,6 +6,6 @@
 | Перевод средств Patreon                   | 2022-04-28        | + 9 012           | 9 012        |
 | Перевод средств RndTechConf 2021          | 2022-04-28        | + 100 000         | 109 012      |
 | Пополнение от Вадим Мартынов              | 2022-05-25        | + 10 000          | 119 012      |
-| Экран для People && Culture meetup 10     | 2022-06-23        | - 10 000          | 109 012      |
+| [Экран для People && Culture meetup 10](https://github.com/RndTechCommunity/NotFound/tree/main/Events#23062022-people--culture-meetup-10)     | 2022-06-23        | - 10 000          | 109 012      |
 
 [На главную](https://github.com/RndTechCommunity/NotFound/)
