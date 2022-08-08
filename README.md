@@ -17,6 +17,9 @@
 4. Концентрация на развитии — фонду важно делать что-то новое или улучшать существующее, поэтому при выборе мероприятий и рассмотрении заявок приоритет будет о отдаваться новым организаторам и улучшению качества.
 5. Поддержка независимых организаторов — в первую очередь фонд создан для поддержки мероприятий, не аффилированных с компаниями и проводимых для развития независимых сообществ.
 
+- [Часто задаваемые вопросы](https://github.com/RndTechCommunity/NotFound/blob/main/FAQ/README.md)
+
+
 - [Организаторам](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md)
   - [Каким мероприятиям мы помогаем](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md#Каким-мероприятиям-мы-помогаем)
   - [Как помогаем](https://github.com/RndTechCommunity/NotFound/blob/main/Host/README.md#Как-помогаем)
