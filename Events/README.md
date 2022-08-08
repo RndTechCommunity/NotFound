@@ -5,6 +5,7 @@
 | Дата | Название         | Соцсети                        |
 |------|------------------|--------------------------------|
 | TBA  | Talk IT Taganrog | [VK](https://vk.com/talkittgn) |
+| 18.08.2022  | Frontend/JS пикник | [Timepad](https://rndtech.timepad.ru/event/2124507/), [VK](https://vk.com/jsmeetup) |
 
 **Уже помогли**:
 
