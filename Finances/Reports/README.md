@@ -7,6 +7,6 @@
 | Перевод средств RndTechConf 2021          | 2022-04-28        | + 100 000         | 109 012      |
 | Пополнение от Вадим Мартынов              | 2022-05-25        | + 10 000          | 119 012      |
 | [Экран для People && Culture meetup 10](https://github.com/RndTechCommunity/NotFound/tree/main/Events#23062022-people--culture-meetup-10)     | 2022-06-23        | - 10 000          | 109 012      |
-| [Оборудование для Frontend/JS пикника](https://github.com/RndTechCommunity/NotFound/tree/main/Events)     | 2022-08-18        | - 15 000          | 94 012      |
+| [Оборудование для Frontend/JS пикника](https://github.com/RndTechCommunity/NotFound/blob/main/Events/README.md#18082022-frontendjs-пикник)     | 2022-08-18        | - 15 000          | 94 012      |
 
 [На главную](https://github.com/RndTechCommunity/NotFound/)
