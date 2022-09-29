@@ -8,7 +8,7 @@
 | Пополнение от Вадим Мартынов              | 2022-05-25        | + 10 000          | 119 012      |
 | [Экран для People && Culture meetup 10](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2022-06-03.md)     | 2022-06-23        | - 10 000          | 109 012      |
 | [Оборудование для Frontend/JS пикника](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2022-08-18.md)     | 2022-08-18        | - 15 000          | 94 012      |
-| [Аренда авто для оборудования стенда на Brainfest](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2022-09-10.md)     | 2022-09-11        | - 9 086          | 84 926      |
-| [Оплата фотографа и аренды звука для митапа по Менторству](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2022-09-22.md)     | 2022-09-11        | - 9 500          | 75 426      |
+| [Аренда авто для оборудования стенда на Brainfest](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2022-09-10.md)     | 2022-09-10        | [- 9 086](2022-09-10.jpg)          | 84 926      |
+| [Оплата фотографа и аренды звука для митапа по Менторству](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2022-09-22.md)     | 2022-09-20        | [- 9 500](2022-09-20.png)          | 75 426      |
 
 [На главную](https://github.com/RndTechCommunity/NotFound/)
