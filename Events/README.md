@@ -14,7 +14,7 @@
 | 23.06.2022 | People && Culture Meetup 10                  | [Vk](https://vk.com/hr_meetup?w=wall-136616219_200)                               | [Фото](https://vk.com/album-136616219_285128558)          |
 | 18.08.2022  | Frontend/JS пикник | [VK](https://vk.com/jsmeetup) | [Фото](https://vk.com/album-179458361_286100732)
 | 10.09.2022  | Brainfest | [VK](https://vk.com/brainfest_growth) | [Фото](https://vk.com/rndtech?w=wall-179458361_433)
-| 22.09.2022  | Менторство: Барный митап! | [Timepad](https://it-people-event.timepad.ru/event/2178253/) | Фото — TBA
+| 22.09.2022  | Менторство: Барный митап! | [Timepad](https://it-people-event.timepad.ru/event/2178253/) | [Фото](https://disk.yandex.ru/d/rXDyQvIpCrVsxw)
 
 ## Подробнее
 
