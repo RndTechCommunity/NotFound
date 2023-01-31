@@ -15,6 +15,7 @@
 | 18.08.2022  | Frontend/JS пикник | [VK](https://vk.com/jsmeetup) | [Фото](https://vk.com/album-179458361_286100732)
 | 10.09.2022  | Brainfest | [VK](https://vk.com/brainfest_growth) | [Фото](https://vk.com/rndtech?w=wall-179458361_433)
 | 22.09.2022  | Менторство: Барный митап! | [Timepad](https://it-people-event.timepad.ru/event/2178253/) | [Фото](https://disk.yandex.ru/d/rXDyQvIpCrVsxw)
+| 28.01.2023 |  Мастер-класс по парламентским дебатам | [Tg канал](https://t.me/raccoon_of_debate/10) | [Фото](https://disk.yandex.ru/d/FYPOzpukeIeIRQ)
 
 ## Подробнее
 
@@ -25,3 +26,5 @@
 3. [10.09.2022: RndTech + IT's people на Brainfest — доставка оборудования](2022-09-10.md)
 
 4. [22.09.2022: Менторство: Барный митап! — звукоусиливающее оборудование и фотограф](2022-09-22.md)
+
+5. [28.01.2023: Мастер-класс по парламентским дебатам - кейтеринг, помощь в выборе площадки и приглашение спонсора](2023-01-28.md)
