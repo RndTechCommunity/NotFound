@@ -14,4 +14,3 @@
 | [Кейтеринг для МК по Парламентским дебатам](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2023-01-28.md) | 2023-01-25 | [-5 000](2023-01-25.png) | 76 871 |
 
 [На главную](https://github.com/RndTechCommunity/NotFound/)
-6 445,59
