@@ -17,6 +17,7 @@
 | 22.09.2022  | Менторство: Барный митап! | [Timepad](https://it-people-event.timepad.ru/event/2178253/) | [Фото](https://disk.yandex.ru/d/rXDyQvIpCrVsxw)
 | 28.01.2023 |  Мастер-класс по парламентским дебатам | [Tg канал](https://t.me/raccoon_of_debate/10) | [Фото](https://disk.yandex.ru/d/FYPOzpukeIeIRQ)
 | 22.06.2023 |  RndTechTalks.DotNet 2 | [Timepad](https://rndtech.timepad.ru/event/2469465/) | [Фото](https://vk.com/album-179458361_294565100)
+| 29.06.2023 |  People&&Culture Meetup 11 | [VK](https://vk.com/hr_meetup?w=wall-136616219_211) | [Фото](https://vk.com/hr_meetup?z=album-136616219_294631048)
 
 ## Подробнее
 
@@ -31,3 +32,5 @@
 5. [28.01.2023: Мастер-класс по парламентским дебатам — кейтеринг, помощь в выборе площадки и приглашение спонсора](2023-01-28.md)
 
 6. [22.06.2023: RndTechTalks.DotNet 2 — кейтеринг и запись докладов](2023-06-22.md) 
+
+7. [29.06.2023: People && Culture Meetup 11 — трансляция и запись докладов](2023-06-29.md)
