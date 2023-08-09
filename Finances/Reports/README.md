@@ -12,5 +12,6 @@
 | [Оплата фотографа и аренды звука для митапа по Менторству](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2022-09-22.md)     | 2022-09-20        | [- 9 500](2022-09-20.png)          | 75 426      |
 | Пополнение средств из boosty              | 2022-11-29        | + 6 445           | 81 871      |
 | [Кейтеринг для МК по Парламентским дебатам](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2023-01-28.md) | 2023-01-25 | [-5 000](2023-01-25.png) | 76 871 |
+| [Кейтеринг для RndTechTalks.DotNet 2](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2023-06-22.md) | 2023-06-22 | [-14 960](2023-01-25.png) | 61 911 |
 
 [На главную](https://github.com/RndTechCommunity/NotFound/)
