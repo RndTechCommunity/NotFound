@@ -4,7 +4,7 @@
 
 | Дата | Название         | Соцсети                        |
 |------|------------------|--------------------------------|
-| TBA  | Talk IT Taganrog | [VK](https://vk.com/talkittgn) |
+| 26.08.2023  | RndTech Mini Conf | [VK](https://vk.com/miniconf) |
 
 
 **Уже помогли**:
