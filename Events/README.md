@@ -19,6 +19,7 @@
 | 7 | 29.06.2023 |  People&&Culture Meetup 11 | [VK](https://vk.com/hr_meetup?w=wall-136616219_211) | [Фото](https://vk.com/hr_meetup?z=album-136616219_294631048)
 | 8 | 26.08.2023 | RndTech Mini Conf | [VK](https://vk.com/miniconf) | [Фото](https://vk.com/album-179458361_296428722)
 | 9 | 09.09.2023 | OpenConf | [VK](https://vk.com/open_conf), [Tg](@open_conf) | [Фото](https://disk.yandex.ru/d/Jzpwh3fhC79tsA)
+| 10 | 25.01.2024 | Фронтенд? Да ну! | [Tg](https://t.me/frontend_on_don/3), [Timepad](https://grosh.timepad.ru/event/2745805/) | [Фото](https://disk.yandex.ru/d/6K-48KYoYy6L5A)
 
 ## Подробнее
 
@@ -39,3 +40,5 @@
 8. [26.08.2023: RndTech Mini Conf — продвижение мероприятия](2023-08-29.md)
 
 9. [09.09.2023: OpenConf — продвижение мероприятия и информационная поддержка](2023-09-09.md)
+
+10. [25.01.2024: Фронтенд? Да ну! — средства на организацию и афтерпати](2024-01-25.md)

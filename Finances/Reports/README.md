@@ -14,5 +14,6 @@
 | [Кейтеринг для МК по Парламентским дебатам](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2023-01-28.md) | 2023-01-25 | [-5 000](2023-01-25.png) | 76 871 |
 | [Кейтеринг для RndTechTalks.DotNet 2](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2023-06-22.md) | 2023-06-22 | [-14 960](2023-01-25.png) | 61 911 |
 | [Реклама для RndTech Mini Conf](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2023-08-29.md) | 2023-08-29 | [-9 393](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2023_08_29_01.png) | 52 518 |
+| Митап [Фронтенд? Да ну!](https://github.com/RndTechCommunity/NotFound/tree/main/Events/2023-08-29.md) | 2024-01-18 | [-10 000](2024-01-18.jpg) | 42 518 |
 
 [На главную](https://github.com/RndTechCommunity/NotFound/)
